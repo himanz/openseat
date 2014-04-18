@@ -12,3 +12,12 @@ Restaurant.create!(
 	:url => "http://www.qualitylogoproducts.com/blog/wp-content/uploads/2012/10/taco-bell-sign-e1351172297943.jpg",
 	:capacity => 100
 	)
+
+Restaurant.create!(
+	:name => "Olive Garden",
+	:address => "50 Queen Street",
+	:style => "Italian",
+	:url => "http://www.news4jax.com/image/view/-/24133952/highRes/1/-/h/210/w/345/-/ta3d9e/-/OliveGarden-Daylight-Kelly2-jpg.jpg",
+	:capacity => 100
+	)
+
